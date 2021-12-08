@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkatlpotholes_site=self.webpackChunkatlpotholes_site||[]).push([[682],{6736:function(e,t,l){var n=l(7294),a=l(5444);t.Z=function(){return n.createElement("header",null,n.createElement("div",{className:"header"},n.createElement(a.rU,{to:"/"},"ATLPOTHOLES")),n.createElement("div",null,n.createElement(a.rU,{to:"/about"},"ABOUT")))}},5518:function(e,t,l){l.r(t);var n=l(7294),a=l(6736);t.default=function(){return n.createElement("div",null,n.createElement(a.Z,null))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-d1eca8c82ceb46f56562.js.map
